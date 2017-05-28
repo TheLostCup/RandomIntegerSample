@@ -1,6 +1,7 @@
 import java.util.Arrays;
 public class RandomSample{
     public static void main(String[] args){
+        System.out.print("\f");
         int[] list = { };
         int numbers = list.length/2;
         int[] newList = new int[numbers];
