@@ -1,7 +1,7 @@
 import java.util.Arrays;
 public class RandomSample{
     public static void main(String[] args){
-        int[] list = {4, 6, 11, 12, 17, 18, 25, 26, 28, 35, 38, 39, 43, 46, 48, 51, 60, 62, 64, 79, 80, 81, 89, 90, 94};
+        int[] list = { };
         int numbers = list.length/2;
         int[] newList = new int[numbers];
         int j = 0;
@@ -30,7 +30,8 @@ public class RandomSample{
         if (num >= 50)
             return true;
         return false;
-    }
+    }
+
 
     public static boolean ifZero(int[] p){
         for(int j = 0; j < p.length; j++){
