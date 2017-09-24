@@ -6,6 +6,8 @@ PROGRAM:RandomSample
 Randomly returns integers from an int[ ]. Returns an array 1/2 the size of the original. 
 Sorts new array from least to greatest. 
 
+STATUS: Complete
+
 INSTRUCTIONS: 
 1. Input a list of integers between the " { } " in line 4:
 
